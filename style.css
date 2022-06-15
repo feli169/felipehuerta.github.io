@@ -1,0 +1,21 @@
+body{
+    background-color: goldenrod;
+}
+div.nav{
+    display: inline-block;
+    width: 69%;
+}
+div.nav1{
+    display: inline-block;
+    width: 29%;
+}
+img{
+    margin: auto;
+    
+}
+a{
+    text-decoration: none;
+}
+div.card img.f{
+    margin: auto;
+}
